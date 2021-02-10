@@ -1,0 +1,29 @@
+Microsserviços
+
+Como dividir?
+Pergunta mais dificil
+
+Classes q não se conversam
+ contexto Bounded Contexts
+
+Não podem classes depender uma da outra que é relacionamento circular
+
+
+Na pratica vai tirar o código e separar em outro pacote
+Ex: No ERP vai gerar o arquivo .jar agr pra rodar em produção vai rodar em .jar comando (java -jar)
+
+
+especificações de montagem
+war
+ 
+jar-estrutura de pastas onde deve ficar cd arquivo
+
+O ERP vai se comunicar com o microserviços em HTTP não importa o tamanho do sistema]
+
+
+para gerar um projeto springboot https://start.spring.io/
+
+
+Se estiver dando erro no applicationTest dar control+shift+o
+
+
